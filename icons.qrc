@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>get_info.png</file>
+        <file>button_cancel.png</file>
+        <file>search.png</file>
+        <file>plus.png</file>
+        <file>reload.png</file>
+        <file>exit.png</file>
+        <file>Awicons-Vista-Artistic-Chart.ico</file>
+        <file>Oxygen-Icons.org-Oxygen-Actions-list-add-user.ico</file>
+        <file>Oxygen-Icons.org-Oxygen-Actions-list-remove-user.ico</file>
+        <file>Oxygen-Icons.org-Oxygen-Apps-preferences-desktop-user-password.ico</file>
+        <file>logo.png</file>
+        <file>logo-nandv.png</file>
+        <file>calendar.ico</file>
+        <file>Oxygen-Icons.org-Oxygen-Apps-accessories-calculator.ico</file>
+        <file>email.ico</file>
+        <file>gift.ico</file>
+        <file>printer_4.ico</file>
+    </qresource>
+</RCC>
